@@ -1,0 +1,1 @@
+C:\Users\FABBI\fabbi_nhan_vbirust\week3\school-info\target\debug\school-info.exe: C:\Users\FABBI\fabbi_nhan_vbirust\week3\school-info\src\generator_mod.rs C:\Users\FABBI\fabbi_nhan_vbirust\week3\school-info\src\lib.rs C:\Users\FABBI\fabbi_nhan_vbirust\week3\school-info\src\main.rs
